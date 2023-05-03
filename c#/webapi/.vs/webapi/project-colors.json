@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "476837dd-9a94-4553-bc14-cb8cfd8885d7": {
+      "ProjectGuid": "476837dd-9a94-4553-bc14-cb8cfd8885d7",
+      "DisplayName": "Dal",
+      "ColorIndex": 0
+    },
+    "86784d1b-73f0-4940-a639-650b8f44d421": {
+      "ProjectGuid": "86784d1b-73f0-4940-a639-650b8f44d421",
+      "DisplayName": "Entity",
+      "ColorIndex": 1
+    },
+    "7b2f6644-cf77-4a05-9f72-2dc0dfe06f0d": {
+      "ProjectGuid": "7b2f6644-cf77-4a05-9f72-2dc0dfe06f0d",
+      "DisplayName": "webapi",
+      "ColorIndex": 2
+    },
+    "6203e3b9-0c76-45b6-b35e-80c479e401f9": {
+      "ProjectGuid": "6203e3b9-0c76-45b6-b35e-80c479e401f9",
+      "DisplayName": "Dto",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "77ea7536-6deb-4be2-9f74-dd8231fda311": {
+      "ProjectGuid": "77ea7536-6deb-4be2-9f74-dd8231fda311",
+      "DisplayName": "Bll",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

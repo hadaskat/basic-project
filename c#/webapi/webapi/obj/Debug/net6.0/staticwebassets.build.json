@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "Hash": "mTW9eaqoBpL2dM1i6yyOjDKyNd1ExH8MR8LfyuXdKy8=",
+  "Source": "webapi",
+  "BasePath": "_content/webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "D:\\מעודכן\\חדש\\webapi\\webapi\\obj\\Debug\\net6.0\\scopedcss\\bundle\\webapi.styles.css",
+      "SourceId": "webapi",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\מעודכן\\חדש\\webapi\\webapi\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/webapi",
+      "RelativePath": "webapi.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\מעודכן\\חדש\\webapi\\webapi\\obj\\Debug\\net6.0\\scopedcss\\bundle\\webapi.styles.css"
+    },
+    {
+      "Identity": "D:\\מעודכן\\חדש\\webapi\\webapi\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\webapi.bundle.scp.css",
+      "SourceId": "webapi",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\מעודכן\\חדש\\webapi\\webapi\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/webapi",
+      "RelativePath": "webapi.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\מעודכן\\חדש\\webapi\\webapi\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\webapi.bundle.scp.css"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+M:\שנה ב תשפג\יד 1\webapi\Dal\bin\Debug\net6.0\Dal.deps.json
+M:\שנה ב תשפג\יד 1\webapi\Dal\bin\Debug\net6.0\Dal.dll
+M:\שנה ב תשפג\יד 1\webapi\Dal\bin\Debug\net6.0\Dal.pdb
+M:\שנה ב תשפג\יד 1\webapi\Dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+M:\שנה ב תשפג\יד 1\webapi\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+M:\שנה ב תשפג\יד 1\webapi\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+M:\שנה ב תשפג\יד 1\webapi\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+M:\שנה ב תשפג\יד 1\webapi\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+M:\שנה ב תשפג\יד 1\webapi\Dal\obj\Debug\net6.0\Dal.dll
+M:\שנה ב תשפג\יד 1\webapi\Dal\obj\Debug\net6.0\refint\Dal.dll
+M:\שנה ב תשפג\יד 1\webapi\Dal\obj\Debug\net6.0\Dal.pdb
+M:\שנה ב תשפג\יד 1\webapi\Dal\obj\Debug\net6.0\ref\Dal.dll
+F:\חדש\webapi\Dal\bin\Debug\net6.0\Dal.deps.json
+F:\חדש\webapi\Dal\bin\Debug\net6.0\Dal.dll
+F:\חדש\webapi\Dal\bin\Debug\net6.0\Dal.pdb
+F:\חדש\webapi\Dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+F:\חדש\webapi\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+F:\חדש\webapi\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+F:\חדש\webapi\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+F:\חדש\webapi\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+F:\חדש\webapi\Dal\obj\Debug\net6.0\Dal.dll
+F:\חדש\webapi\Dal\obj\Debug\net6.0\refint\Dal.dll
+F:\חדש\webapi\Dal\obj\Debug\net6.0\Dal.pdb
+F:\חדש\webapi\Dal\obj\Debug\net6.0\ref\Dal.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\Dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\חדש\חדש\webapi\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\חדש\חדש\webapi\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\חדש\חדש\webapi\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+C:\Users\User\Desktop\חדש\חדש\webapi\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\חדש\חדש\webapi\Dal\obj\Debug\net6.0\Dal.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\Dal\obj\Debug\net6.0\ref\Dal.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\Dal\obj\Debug\net6.0\Dal.pdb
+E:\מעודכן\חדש\webapi\Dal\bin\Debug\net6.0\Dal.deps.json
+E:\מעודכן\חדש\webapi\Dal\bin\Debug\net6.0\Dal.dll
+E:\מעודכן\חדש\webapi\Dal\bin\Debug\net6.0\Dal.pdb
+E:\מעודכן\חדש\webapi\Dal\bin\Debug\net6.0\Dto.dll
+E:\מעודכן\חדש\webapi\Dal\bin\Debug\net6.0\Entity.dll
+E:\מעודכן\חדש\webapi\Dal\bin\Debug\net6.0\Entity.pdb
+E:\מעודכן\חדש\webapi\Dal\bin\Debug\net6.0\Dto.pdb
+E:\מעודכן\חדש\webapi\Dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+E:\מעודכן\חדש\webapi\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+E:\מעודכן\חדש\webapi\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+E:\מעודכן\חדש\webapi\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+E:\מעודכן\חדש\webapi\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+E:\מעודכן\חדש\webapi\Dal\obj\Debug\net6.0\Dal.csproj.CopyComplete
+E:\מעודכן\חדש\webapi\Dal\obj\Debug\net6.0\Dal.dll
+E:\מעודכן\חדש\webapi\Dal\obj\Debug\net6.0\refint\Dal.dll
+E:\מעודכן\חדש\webapi\Dal\obj\Debug\net6.0\Dal.pdb
+E:\מעודכן\חדש\webapi\Dal\obj\Debug\net6.0\ref\Dal.dll
+D:\מעודכן\חדש\webapi\Dal\bin\Debug\net6.0\Dal.deps.json
+D:\מעודכן\חדש\webapi\Dal\bin\Debug\net6.0\Dal.dll
+D:\מעודכן\חדש\webapi\Dal\bin\Debug\net6.0\Dal.pdb
+D:\מעודכן\חדש\webapi\Dal\bin\Debug\net6.0\Dto.dll
+D:\מעודכן\חדש\webapi\Dal\bin\Debug\net6.0\Entity.dll
+D:\מעודכן\חדש\webapi\Dal\bin\Debug\net6.0\Entity.pdb
+D:\מעודכן\חדש\webapi\Dal\bin\Debug\net6.0\Dto.pdb
+D:\מעודכן\חדש\webapi\Dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+D:\מעודכן\חדש\webapi\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\מעודכן\חדש\webapi\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+D:\מעודכן\חדש\webapi\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+D:\מעודכן\חדש\webapi\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+D:\מעודכן\חדש\webapi\Dal\obj\Debug\net6.0\Dal.csproj.CopyComplete
+D:\מעודכן\חדש\webapi\Dal\obj\Debug\net6.0\Dal.dll
+D:\מעודכן\חדש\webapi\Dal\obj\Debug\net6.0\refint\Dal.dll
+D:\מעודכן\חדש\webapi\Dal\obj\Debug\net6.0\Dal.pdb
+D:\מעודכן\חדש\webapi\Dal\obj\Debug\net6.0\ref\Dal.dll
+F:\מעודכן\חדש\webapi\Dal\bin\Debug\net6.0\Dal.deps.json
+F:\מעודכן\חדש\webapi\Dal\bin\Debug\net6.0\Dal.dll
+F:\מעודכן\חדש\webapi\Dal\bin\Debug\net6.0\Dal.pdb
+F:\מעודכן\חדש\webapi\Dal\bin\Debug\net6.0\Dto.dll
+F:\מעודכן\חדש\webapi\Dal\bin\Debug\net6.0\Entity.dll
+F:\מעודכן\חדש\webapi\Dal\bin\Debug\net6.0\Entity.pdb
+F:\מעודכן\חדש\webapi\Dal\bin\Debug\net6.0\Dto.pdb
+F:\מעודכן\חדש\webapi\Dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+F:\מעודכן\חדש\webapi\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+F:\מעודכן\חדש\webapi\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+F:\מעודכן\חדש\webapi\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+F:\מעודכן\חדש\webapi\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+F:\מעודכן\חדש\webapi\Dal\obj\Debug\net6.0\Dal.csproj.CopyComplete
+F:\מעודכן\חדש\webapi\Dal\obj\Debug\net6.0\Dal.dll
+F:\מעודכן\חדש\webapi\Dal\obj\Debug\net6.0\refint\Dal.dll
+F:\מעודכן\חדש\webapi\Dal\obj\Debug\net6.0\Dal.pdb
+F:\מעודכן\חדש\webapi\Dal\obj\Debug\net6.0\ref\Dal.dll

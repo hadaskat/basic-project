@@ -1,0 +1,475 @@
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\appsettings.Development.json
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\appsettings.json
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\webapi.staticwebassets.runtime.json
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\webapi.exe
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\webapi.deps.json
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\webapi.runtimeconfig.json
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\webapi.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\webapi.pdb
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\obj\Debug\net6.0\webapi.csproj.AssemblyReference.cache
+M:\שנה ב תשפג\יד 1\webapi\webapi\obj\Debug\net6.0\webapi.GeneratedMSBuildEditorConfig.editorconfig
+M:\שנה ב תשפג\יד 1\webapi\webapi\obj\Debug\net6.0\webapi.AssemblyInfoInputs.cache
+M:\שנה ב תשפג\יד 1\webapi\webapi\obj\Debug\net6.0\webapi.AssemblyInfo.cs
+M:\שנה ב תשפג\יד 1\webapi\webapi\obj\Debug\net6.0\webapi.csproj.CoreCompileInputs.cache
+M:\שנה ב תשפג\יד 1\webapi\webapi\obj\Debug\net6.0\webapi.MvcApplicationPartsAssemblyInfo.cs
+M:\שנה ב תשפג\יד 1\webapi\webapi\obj\Debug\net6.0\webapi.MvcApplicationPartsAssemblyInfo.cache
+M:\שנה ב תשפג\יד 1\webapi\webapi\obj\Debug\net6.0\webapi.RazorAssemblyInfo.cache
+M:\שנה ב תשפג\יד 1\webapi\webapi\obj\Debug\net6.0\webapi.RazorAssemblyInfo.cs
+M:\שנה ב תשפג\יד 1\webapi\webapi\obj\Debug\net6.0\staticwebassets\msbuild.webapi.Microsoft.AspNetCore.StaticWebAssets.props
+M:\שנה ב תשפג\יד 1\webapi\webapi\obj\Debug\net6.0\staticwebassets\msbuild.build.webapi.props
+M:\שנה ב תשפג\יד 1\webapi\webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.webapi.props
+M:\שנה ב תשפג\יד 1\webapi\webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.webapi.props
+M:\שנה ב תשפג\יד 1\webapi\webapi\obj\Debug\net6.0\staticwebassets.pack.json
+M:\שנה ב תשפג\יד 1\webapi\webapi\obj\Debug\net6.0\staticwebassets.build.json
+M:\שנה ב תשפג\יד 1\webapi\webapi\obj\Debug\net6.0\staticwebassets.development.json
+M:\שנה ב תשפג\יד 1\webapi\webapi\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+M:\שנה ב תשפג\יד 1\webapi\webapi\obj\Debug\net6.0\scopedcss\bundle\webapi.styles.css
+M:\שנה ב תשפג\יד 1\webapi\webapi\obj\Debug\net6.0\scopedcss\projectbundle\webapi.bundle.scp.css
+M:\שנה ב תשפג\יד 1\webapi\webapi\obj\Debug\net6.0\webapi.csproj.CopyComplete
+M:\שנה ב תשפג\יד 1\webapi\webapi\obj\Debug\net6.0\webapi.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\obj\Debug\net6.0\refint\webapi.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\obj\Debug\net6.0\webapi.pdb
+M:\שנה ב תשפג\יד 1\webapi\webapi\obj\Debug\net6.0\webapi.genruntimeconfig.cache
+M:\שנה ב תשפג\יד 1\webapi\webapi\obj\Debug\net6.0\ref\webapi.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\Azure.Core.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\Azure.Identity.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\Humanizer.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\Mono.TextTemplating.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\System.CodeDom.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\System.Drawing.Common.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\System.Memory.Data.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\System.Security.Permissions.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\System.Text.Json.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+M:\שנה ב תשפג\יד 1\webapi\webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\appsettings.Development.json
+F:\חדש\webapi\webapi\bin\Debug\net6.0\appsettings.json
+F:\חדש\webapi\webapi\bin\Debug\net6.0\webapi.staticwebassets.runtime.json
+F:\חדש\webapi\webapi\bin\Debug\net6.0\webapi.exe
+F:\חדש\webapi\webapi\bin\Debug\net6.0\webapi.deps.json
+F:\חדש\webapi\webapi\bin\Debug\net6.0\webapi.runtimeconfig.json
+F:\חדש\webapi\webapi\bin\Debug\net6.0\webapi.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\webapi.pdb
+F:\חדש\webapi\webapi\bin\Debug\net6.0\Azure.Core.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\Azure.Identity.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\Humanizer.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\Mono.TextTemplating.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\System.CodeDom.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\System.Memory.Data.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\System.Text.Json.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\חדש\webapi\webapi\obj\Debug\net6.0\webapi.csproj.AssemblyReference.cache
+F:\חדש\webapi\webapi\obj\Debug\net6.0\webapi.GeneratedMSBuildEditorConfig.editorconfig
+F:\חדש\webapi\webapi\obj\Debug\net6.0\webapi.AssemblyInfoInputs.cache
+F:\חדש\webapi\webapi\obj\Debug\net6.0\webapi.AssemblyInfo.cs
+F:\חדש\webapi\webapi\obj\Debug\net6.0\webapi.csproj.CoreCompileInputs.cache
+F:\חדש\webapi\webapi\obj\Debug\net6.0\webapi.MvcApplicationPartsAssemblyInfo.cs
+F:\חדש\webapi\webapi\obj\Debug\net6.0\webapi.MvcApplicationPartsAssemblyInfo.cache
+F:\חדש\webapi\webapi\obj\Debug\net6.0\webapi.RazorAssemblyInfo.cache
+F:\חדש\webapi\webapi\obj\Debug\net6.0\webapi.RazorAssemblyInfo.cs
+F:\חדש\webapi\webapi\obj\Debug\net6.0\staticwebassets\msbuild.webapi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\חדש\webapi\webapi\obj\Debug\net6.0\staticwebassets\msbuild.build.webapi.props
+F:\חדש\webapi\webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.webapi.props
+F:\חדש\webapi\webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.webapi.props
+F:\חדש\webapi\webapi\obj\Debug\net6.0\staticwebassets.pack.json
+F:\חדש\webapi\webapi\obj\Debug\net6.0\staticwebassets.build.json
+F:\חדש\webapi\webapi\obj\Debug\net6.0\staticwebassets.development.json
+F:\חדש\webapi\webapi\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+F:\חדש\webapi\webapi\obj\Debug\net6.0\scopedcss\bundle\webapi.styles.css
+F:\חדש\webapi\webapi\obj\Debug\net6.0\scopedcss\projectbundle\webapi.bundle.scp.css
+F:\חדש\webapi\webapi\obj\Debug\net6.0\webapi.csproj.CopyComplete
+F:\חדש\webapi\webapi\obj\Debug\net6.0\webapi.dll
+F:\חדש\webapi\webapi\obj\Debug\net6.0\refint\webapi.dll
+F:\חדש\webapi\webapi\obj\Debug\net6.0\webapi.pdb
+F:\חדש\webapi\webapi\obj\Debug\net6.0\webapi.genruntimeconfig.cache
+F:\חדש\webapi\webapi\obj\Debug\net6.0\ref\webapi.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\webapi.staticwebassets.runtime.json
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\webapi.exe
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\webapi.deps.json
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\webapi.runtimeconfig.json
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\webapi.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\ref\webapi.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\webapi.pdb
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\obj\Debug\net6.0\webapi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\obj\Debug\net6.0\webapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\obj\Debug\net6.0\webapi.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\obj\Debug\net6.0\webapi.AssemblyInfo.cs
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\obj\Debug\net6.0\webapi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\obj\Debug\net6.0\webapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\obj\Debug\net6.0\webapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\obj\Debug\net6.0\webapi.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\obj\Debug\net6.0\webapi.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\obj\Debug\net6.0\scopedcss\bundle\webapi.styles.css
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\obj\Debug\net6.0\scopedcss\projectbundle\webapi.bundle.scp.css
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\obj\Debug\net6.0\webapi.csproj.CopyComplete
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\obj\Debug\net6.0\webapi.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\obj\Debug\net6.0\ref\webapi.dll
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\obj\Debug\net6.0\webapi.pdb
+C:\Users\User\Desktop\חדש\חדש\webapi\webapi\obj\Debug\net6.0\webapi.genruntimeconfig.cache
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\appsettings.Development.json
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\appsettings.json
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\webapi.staticwebassets.runtime.json
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\webapi.exe
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\webapi.deps.json
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\webapi.runtimeconfig.json
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\webapi.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\webapi.pdb
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Azure.Core.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Azure.Identity.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Humanizer.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\System.CodeDom.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\System.Memory.Data.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\System.Text.Json.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\webapi.csproj.AssemblyReference.cache
+E:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\webapi.GeneratedMSBuildEditorConfig.editorconfig
+E:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\webapi.AssemblyInfoInputs.cache
+E:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\webapi.AssemblyInfo.cs
+E:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\webapi.csproj.CoreCompileInputs.cache
+E:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\webapi.MvcApplicationPartsAssemblyInfo.cs
+E:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\webapi.MvcApplicationPartsAssemblyInfo.cache
+E:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\webapi.RazorAssemblyInfo.cache
+E:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\webapi.RazorAssemblyInfo.cs
+E:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\staticwebassets\msbuild.webapi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\staticwebassets\msbuild.build.webapi.props
+E:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.webapi.props
+E:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.webapi.props
+E:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\staticwebassets.build.json
+E:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\staticwebassets.development.json
+E:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\scopedcss\bundle\webapi.styles.css
+E:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\scopedcss\projectbundle\webapi.bundle.scp.css
+E:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\webapi.csproj.CopyComplete
+E:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\webapi.dll
+E:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\refint\webapi.dll
+E:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\webapi.pdb
+E:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\webapi.genruntimeconfig.cache
+E:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\ref\webapi.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\appsettings.Development.json
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\appsettings.json
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\webapi.staticwebassets.runtime.json
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\webapi.exe
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\webapi.deps.json
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\webapi.runtimeconfig.json
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\webapi.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\webapi.pdb
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Azure.Core.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Azure.Identity.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Humanizer.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\System.CodeDom.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\System.Memory.Data.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\System.Text.Json.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\webapi.csproj.AssemblyReference.cache
+D:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\webapi.GeneratedMSBuildEditorConfig.editorconfig
+D:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\webapi.AssemblyInfoInputs.cache
+D:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\webapi.AssemblyInfo.cs
+D:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\webapi.csproj.CoreCompileInputs.cache
+D:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\webapi.MvcApplicationPartsAssemblyInfo.cs
+D:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\webapi.MvcApplicationPartsAssemblyInfo.cache
+D:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\webapi.RazorAssemblyInfo.cache
+D:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\webapi.RazorAssemblyInfo.cs
+D:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\staticwebassets\msbuild.webapi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\staticwebassets\msbuild.build.webapi.props
+D:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.webapi.props
+D:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.webapi.props
+D:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\staticwebassets.build.json
+D:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\staticwebassets.development.json
+D:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\scopedcss\bundle\webapi.styles.css
+D:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\scopedcss\projectbundle\webapi.bundle.scp.css
+D:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\webapi.csproj.CopyComplete
+D:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\webapi.dll
+D:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\refint\webapi.dll
+D:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\webapi.pdb
+D:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\webapi.genruntimeconfig.cache
+D:\מעודכן\חדש\webapi\webapi\obj\Debug\net6.0\ref\webapi.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\AutoMapper.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Bll.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Dal.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Dto.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Entity.dll
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Bll.pdb
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Dto.pdb
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Dal.pdb
+E:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Entity.pdb
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\AutoMapper.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Bll.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Dal.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Dto.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Entity.dll
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Bll.pdb
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Dto.pdb
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Dal.pdb
+D:\מעודכן\חדש\webapi\webapi\bin\Debug\net6.0\Entity.pdb
