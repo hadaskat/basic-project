@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yNA42+dkh6abPMSdMeBUqo2vE9wBtsDZgYdJWbV9AjeYuhjuWO2UGyWvmgZzz51tFZAHhsq+0iWnsBpMXXJwVQ==",
+  "dgSpecHash": "ML+x5Inv3d+cTeXhtfk7fbuJzGbctglAe7WjW17rIpe07LtwWuz7WWtWm2N4PTcF9lRCQqMw003kNdYnCod7PQ==",
   "success": true,
-  "projectFilePath": "D:\\מעודכן\\חדש\\webapi\\Bll\\Bll.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\project angular & c#\\c#\\webapi\\Bll\\Bll.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

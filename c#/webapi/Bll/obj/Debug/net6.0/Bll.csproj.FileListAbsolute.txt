@@ -60,3 +60,22 @@ F:\מעודכן\חדש\webapi\Bll\obj\Debug\net6.0\Bll.dll
 F:\מעודכן\חדש\webapi\Bll\obj\Debug\net6.0\refint\Bll.dll
 F:\מעודכן\חדש\webapi\Bll\obj\Debug\net6.0\Bll.pdb
 F:\מעודכן\חדש\webapi\Bll\obj\Debug\net6.0\ref\Bll.dll
+C:\Users\USER\Desktop\project angular & c#\c#\webapi\Bll\bin\Debug\net6.0\Bll.deps.json
+C:\Users\USER\Desktop\project angular & c#\c#\webapi\Bll\bin\Debug\net6.0\Bll.dll
+C:\Users\USER\Desktop\project angular & c#\c#\webapi\Bll\bin\Debug\net6.0\Bll.pdb
+C:\Users\USER\Desktop\project angular & c#\c#\webapi\Bll\bin\Debug\net6.0\Dal.dll
+C:\Users\USER\Desktop\project angular & c#\c#\webapi\Bll\bin\Debug\net6.0\Dto.dll
+C:\Users\USER\Desktop\project angular & c#\c#\webapi\Bll\bin\Debug\net6.0\Entity.dll
+C:\Users\USER\Desktop\project angular & c#\c#\webapi\Bll\bin\Debug\net6.0\Dal.pdb
+C:\Users\USER\Desktop\project angular & c#\c#\webapi\Bll\bin\Debug\net6.0\Entity.pdb
+C:\Users\USER\Desktop\project angular & c#\c#\webapi\Bll\bin\Debug\net6.0\Dto.pdb
+C:\Users\USER\Desktop\project angular & c#\c#\webapi\Bll\obj\Debug\net6.0\Bll.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\project angular & c#\c#\webapi\Bll\obj\Debug\net6.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\project angular & c#\c#\webapi\Bll\obj\Debug\net6.0\Bll.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\project angular & c#\c#\webapi\Bll\obj\Debug\net6.0\Bll.AssemblyInfo.cs
+C:\Users\USER\Desktop\project angular & c#\c#\webapi\Bll\obj\Debug\net6.0\Bll.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\project angular & c#\c#\webapi\Bll\obj\Debug\net6.0\Bll.csproj.CopyComplete
+C:\Users\USER\Desktop\project angular & c#\c#\webapi\Bll\obj\Debug\net6.0\Bll.dll
+C:\Users\USER\Desktop\project angular & c#\c#\webapi\Bll\obj\Debug\net6.0\refint\Bll.dll
+C:\Users\USER\Desktop\project angular & c#\c#\webapi\Bll\obj\Debug\net6.0\Bll.pdb
+C:\Users\USER\Desktop\project angular & c#\c#\webapi\Bll\obj\Debug\net6.0\ref\Bll.dll

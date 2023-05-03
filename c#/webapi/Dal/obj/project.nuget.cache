@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D48J0dl225xkBAfAw6nGADHHapoV3M77ScgVx1Ffx4JgsjeWS8PTSn+zyZJrj5tsWRc8r6rvkO5vQ2A5ORHljQ==",
+  "dgSpecHash": "c6NoMAvmB/Fo1baxmMy2qWowdr36bLQGWGZLzr+86fUR2h3HvWXqIjuNj+EioMKzGHXv18SI6a6lOxlVYFhxBg==",
   "success": true,
-  "projectFilePath": "D:\\מעודכן\\חדש\\webapi\\Dal\\Dal.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\project angular & c#\\c#\\webapi\\Dal\\Dal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

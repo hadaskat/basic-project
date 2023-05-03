@@ -3343,11 +3343,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\מעודכן\\חדש\\webapi\\Bll\\Bll.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\project angular & c#\\c#\\webapi\\Bll\\Bll.csproj",
       "projectName": "Bll",
-      "projectPath": "D:\\מעודכן\\חדש\\webapi\\Bll\\Bll.csproj",
+      "projectPath": "C:\\Users\\USER\\Desktop\\project angular & c#\\c#\\webapi\\Bll\\Bll.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "D:\\מעודכן\\חדש\\webapi\\Bll\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\project angular & c#\\c#\\webapi\\Bll\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -3371,11 +3371,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\מעודכן\\חדש\\webapi\\Dal\\Dal.csproj": {
-              "projectPath": "D:\\מעודכן\\חדש\\webapi\\Dal\\Dal.csproj"
+            "C:\\Users\\USER\\Desktop\\project angular & c#\\c#\\webapi\\Dal\\Dal.csproj": {
+              "projectPath": "C:\\Users\\USER\\Desktop\\project angular & c#\\c#\\webapi\\Dal\\Dal.csproj"
             },
-            "D:\\מעודכן\\חדש\\webapi\\Entity\\Entity.csproj": {
-              "projectPath": "D:\\מעודכן\\חדש\\webapi\\Entity\\Entity.csproj"
+            "C:\\Users\\USER\\Desktop\\project angular & c#\\c#\\webapi\\Entity\\Entity.csproj": {
+              "projectPath": "C:\\Users\\USER\\Desktop\\project angular & c#\\c#\\webapi\\Entity\\Entity.csproj"
             }
           }
         }

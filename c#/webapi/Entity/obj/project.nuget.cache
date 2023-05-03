@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I1mTdFmoRC5H15kAjkdnewx2kzBt2Zl4N07mGoBsRO1JH5J7Cl41wpkvOxLAb5CJ36SAnnfBFszyeE+wRfqT+g==",
+  "dgSpecHash": "IX9W5ROlkzp1c/o6DVQnrcYh8ygm+yJ4ekrWyN+vRCYvdV7CLb6C/gx4PfUNhmNEzZvRuLT+IGdy0qtW0fgqHA==",
   "success": true,
-  "projectFilePath": "D:\\מעודכן\\חדש\\webapi\\Entity\\Entity.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\project angular & c#\\c#\\webapi\\Entity\\Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
